@@ -21,17 +21,12 @@ DB_PORT=5432
 ```
 
 
-### 1. Go to backend directory
-```sh
-cd backend
-```
-
-### 2. Install all packages
+### 1. Install all packages
 ```sh
 npm i
 ```
 
-### 3. Start server
+### 2. Start server
 ```sh
 npm run start:local
 ```
